@@ -1,1 +1,1 @@
-radio.setGroup(1)
+radio.setGroup(2)
